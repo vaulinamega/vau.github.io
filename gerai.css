@@ -1,0 +1,32 @@
+.jumb {
+  padding: 1rem 1rem;
+  margin-bottom: 10rem;;
+  border-radius: 0.3rem;
+  font-size: 3px;
+}
+
+.menu{
+  background-image: url("groups.png");
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 100px;
+  margin-top: 1rem;
+  margin-left:35rem;
+}
+.menu2{
+  background-image: url("ANGGOTA.png");
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 100px;
+  font-size: 8px;
+  margin-top: -6.5rem;
+  margin-left: 45rem;
+}
+.menu3{
+  background-image: url("PERWAKILAN.png");
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 100px;
+  margin-top: -6.5rem;
+  margin-left:55rem;
+}

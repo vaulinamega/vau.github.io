@@ -1,0 +1,78 @@
+.wrap{
+	width: 1000px;
+	margin: 50px auto;
+	font-size: 20px;
+}
+ 
+/*bagian header*/
+.wrap .header{
+	/*height: 50px;*/
+	padding: 10px 10px;
+	font-size: 20px;
+}
+ .wrap.logoHome{
+ 		background-image: "LogoHome.png";
+ 		background-size: :10px;
+ 		width: 50px;
+ 		padding: 50px;
+ 		height: 50px;
+ 		margin:50% 50px 10;
+ }
+/*akhir header*/
+ 
+/*bagian menu*/
+.wrap .menu{
+}
+ 
+.wrap .menu ul{
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	font-size: 35px;
+	font-color: black;
+}
+ 
+.wrap .menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+
+a{
+	font-color: Black;
+	color: #000000;
+}
+/*akhir menu*/
+ 
+.clear{
+	clear: both;
+}
+ 
+.badan{
+	height: 450px;
+}
+/*bagian sidebar*/
+.wrap .badan .sidebar{
+	float: left;	
+	width: 25%;
+	height: 100%;
+	font-size: 20px;
+}
+ 
+/*akhir sidebar*/
+ 
+.wrap .badan .content{
+	float: left;
+	height: 100%;
+	width: 75%;	
+	font-size: 20px;
+}
+ 
+.wrap .footer{
+	width: 100%;
+	padding: 10px;
+}
+.header .LogoHome {
+  max-width: 200px;
+  padding: 10px 0px;
+}

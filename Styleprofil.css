@@ -1,0 +1,63 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Century Gothic;
+}
+
+body{
+  background-image: url(profil.jpg);
+  left bottom: no-repeat;
+  background-size:520px auto;
+}
+
+ul{
+	float: right;
+ 	list-style-type: none;
+ 	margin-top: 10px;
+ 	margin-bottom: 5px;
+ 	margin-left: 5px;
+ 	margin-right: 5xp;
+}
+ ul{
+ 	display: inline-block;
+ }
+
+ul a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: o.6s ease;
+}
+
+ul a{
+	background-color: #fff;
+	color: #000;
+}
+
+ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+.logoHome img{
+	float: left;
+	width: 150px;
+	height: auto;
+}
+
+.main{
+	max-width: 1200px;
+	margin: auto;
+}
+
+.title{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.title h1{
+	color: #000000;
+	font-size: 70px;
+}
